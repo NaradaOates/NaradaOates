@@ -15,10 +15,10 @@ My goal is an entry-level role in security monitoring, incident response, or IT 
 
 | Category          | Tools / Technologies                      |
 |-----------------  |-------------------------------------------|
-| Operating Systems | Windows 10/11                             |
+| Operating Systems | Windows 10/11, Linux (Ubuntu)             |
 | Networking        | TCP/IP, DNS, DHCP                         |
 | Security Tools    | *Coming soon*                             |
-| Scripting         | Python (beginner), Bash (beginner)        |
+| Scripting         | Bash (beginner)                           |
 | Frameworks        | *Coming soon*                             |
 
 ---
