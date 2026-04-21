@@ -5,7 +5,7 @@ Aspiring Blue Team Analyst | CompTIA A+ Candidate | London, UK
 ---
 
 ### About Me
-On a mission to transition into cybersecurity, specifically within Blue Team and SOC environments. I am currently preparing for my CompTIA A+ certification while actively building hands-on skills through home lab projects and self-directed learning to brdige the gap between theory and practice. 
+On a mission to transition into cybersecurity, specifically within Blue Team and SOC environments. I am currently preparing for my CompTIA A+ certification while actively building hands-on skills through home lab projects and self-directed learning to bridge the gap between theory and practice. 
 
 My goal is an entry-level role in security monitoring, incident response, or IT support with a focus on security. 
 
