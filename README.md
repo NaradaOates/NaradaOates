@@ -33,7 +33,7 @@ My background is in accounting and finance, and since graduating I've worked as 
 
 | Write-Up | Description | Tags |
 |---|---|---|
-| [Auto-Mounting an NTFS HDD on Ubuntu](#) | Configuring a secondary NTFS-formatted drive to mount automatically on boot via `/etc/fstab` | `Linux` `Ubuntu` `Storage` |
+| [Auto-Mounting an NTFS HDD on Ubuntu](https://github.com/NaradaOates/linux-notes/blob/main/mouting-ntfs-hdd-ubuntu.md) | Configuring a secondary NTFS-formatted drive to mount automatically on boot via `/etc/fstab` | `Linux` `Ubuntu` `Storage` |
 | Installing Windows 11 on Unsupported Hardware via VM *(coming soon)* | Using a virtual machine to run Windows 11 on a device that does not meet the official system requirements | `Windows` `Virtualisation` `VM` |
 
 ---
