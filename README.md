@@ -5,9 +5,9 @@ Aspiring Blue Team Analyst | CompTIA A+ Candidate | London, UK
 ---
 
 ### About Me
-On a mission to transition into cybersecurity, specifically within Blue Team and SOC environments. I am currently preparing for my CompTIA A+ certification while actively building hands-on skills through home lab projects and self-directed learning to bridge the gap between theory and practice. 
+My path into cybersecurity started with a dissertation on the TalkTalk data breach of 2015. This incident hit close to home, as my household was a customer at the time. Researching the breach gave me my first real look at the scale of cybercrime, and it stuck with me ever since. 
 
-My goal is an entry-level role in security monitoring, incident response, or IT support with a focus on security. 
+My background is in accounting and finance, and since graduating I've worked as an Employer Engagement Assistant, where I built relationships with employers, students, and academics across the IT and tech sector. Those conversations convinced me to make the move myself. I'm now focused on Blue Team security, working toward a role as a SOC Analyst, with a growing interest in malware analysis as a way to better understand the threats I'll be defending against.
 
 ---
 
