@@ -1,6 +1,6 @@
 ## Hello there, I'm Narada Oates
 
-Aspiring Blue Team Analyst | Studying for CompTIA A+ and Beyond | London, UK 
+Aspiring Blue Team Analyst | Studying for CompTIA A+ and beyond | London, UK 
 
 ---
 
