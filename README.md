@@ -38,8 +38,23 @@ My background is in accounting and finance, and since graduating I've worked as 
 
 ---
 
-## Cybersecurity Article Breakdowns
+### Cybersecurity Article Breakdowns
 
+I have a growing interest in malware, specifically how it is built, deployed, and the real-world damage it causes. This section is where I break down news articles and threat reports
+to sharpen my ability to read and analyse cybersecurity incidents critically.
+
+| Breakdown | Source | Tags | Status |
+|---|---|---|---|
+| CPUID Spoofing via RAT Malware | *(source link)* | `Malware` `RAT` `Threat Analysis` | Coming Soon |
+
+---
+
+> This profile is a work in progress and updated regularly as I learn.
+
+> Last updated: April 2026
+
+<!-- Is this how you comment
+--> 
 
 <!--
 **NaradaOates/NaradaOates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
