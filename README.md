@@ -7,46 +7,39 @@ Aspiring Blue Team Analyst | CompTIA A+ Candidate | London, UK
 ### About Me
 My path into cybersecurity started with a dissertation on the TalkTalk data breach of 2015. This incident hit close to home, as my household was a customer at the time. Researching the breach gave me my first real look at the scale of cybercrime, and it stuck with me ever since. 
 
-My background is in accounting and finance, and since graduating I've worked as an Employer Engagement Assistant, where I built relationships with employers, students, and academics across the IT and tech sector. Those conversations convinced me to make the move myself. I'm now focused on Blue Team security, working toward a role as a SOC Analyst, with a growing interest in malware analysis as a way to better understand the threats I'll be defending against.
+My background is in accounting and finance, and since graduating I've worked as an Employer Engagement Assistant, where I built relationships with employers, students, and academics across the IT and tech sector. Those conversations convinced me to make the move myself. I'm now focused on **Blue Team** security, working toward a role as a **SOC Analyst**, with a growing interest in malware analysis as a way to better understand the threats I'll be defending against.
 
 ---
-
-### Skills & Tools
-
-| Category          | Tools / Technologies                      |
-|-----------------  |-------------------------------------------|
-| Operating Systems | Windows 10/11, Linux (Ubuntu)             |
-| Networking        | TCP/IP, DNS, DHCP                         |
-| Security Tools    | *Coming soon*                             |
-| Scripting         | Bash (beginner)                           |
-| Frameworks        | *Coming soon*                             |
-
----
-
 ### Certifications
 
-- CompTIA Tech+ - Achieved July 2025
-- CompTIA A+ - *Coming soon (2026)*
-- CompTIA Network+ - *Coming soon*
-- CompTIA Security+ - *Coming soon*
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-|         |                                                                       |
-|         |                                                                       |
-|         |                                                                       |
+| Certification | Provider | Status |
+|---|---|---|
+| Tech+ | CompTIA | Completed (July 2025) |
+| A+ | CompTIA | In Progress |
+| Network+ | CompTIA | Coming soon |
+| Security | CompTIA | Coming soon |
 
 ---
 
 ### Currently Learning
 
-- CompTIA A+ (Core 1 & Core 2)
-- Linux (Ubuntu) CLI
-- Networking and Cybersecurity fundamentals 
+- **Linux (Ubuntu)** - navigating the terminal, file systems, and core commands
+-  **CompTIA A+ Core 1** - hardware, networking fundamentals, mobile devices, virtualisation, and troubleshooting
+- **Malware analysis** - lab setup (VMs and safe environments)
+
+---
+
+### Write-ups
+
+| Write-Up | Description | Tags |
+|---|---|---|
+| [Auto-Mounting an NTFS HDD on Ubuntu](#) | Configuring a secondary NTFS-formatted drive to mount automatically on boot via `/etc/fstab` | `Linux` `Ubuntu` `Storage` |
+| Installing Windows 11 on Unsupported Hardware via VM *(coming soon)* | Using a virtual machine to run Windows 11 on a device that does not meet the official system requirements | `Windows` `Virtualisation` `VM` |
+
+---
+
+## Cybersecurity Article Breakdowns
+
 
 <!--
 **NaradaOates/NaradaOates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
