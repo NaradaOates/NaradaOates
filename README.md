@@ -45,7 +45,7 @@ to sharpen my ability to read and analyse cybersecurity incidents critically.
 
 | Breakdown | Source | Tags | Status |
 |---|---|---|---|
-| CPUID Supply Chain Attack via RAT Malware | (./incidents/cpuid-stx-rat-2026/breakdown.md) | `Malware` `RAT` `Threat Analysis` | Published|
+| CPUID Supply Chain Attack via RAT Malware | (incidents/cpuid-stx-rat-2026/breakdown.md)| `Malware` `RAT` `Threat Analysis` | Published|
 
 ---
 
