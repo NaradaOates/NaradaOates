@@ -45,13 +45,13 @@ to sharpen my ability to read and analyse cybersecurity incidents critically.
 
 | Breakdown | Source | Tags | Status |
 |---|---|---|---|
-| CPUID Spoofing via RAT Malware | *(source link)* | `Malware` `RAT` `Threat Analysis` | Coming Soon |
+| CPUID Supply Chain Attack via RAT Malware | (./incidents/cpuid-stx-rat-2026/breakdown.md) | `Malware` `RAT` `Threat Analysis` | Published|
 
 ---
 
 > This profile is a work in progress and updated as I learn. 
 
-> Last updated: April 2026
+> Last updated: May 2026
 
 <!-- Is this how you comment
 --> 
