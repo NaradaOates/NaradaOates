@@ -29,7 +29,7 @@ My background is in accounting and finance, and since graduating I've worked as 
 
 ---
 
-### Write-ups
+### Lab Notes
 
 | Write-Up | Description | Tags |
 |---|---|---|
