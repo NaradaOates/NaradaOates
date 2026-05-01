@@ -38,7 +38,7 @@ My background is in accounting and finance, and since graduating I've worked as 
 
 ---
 
-### Cybersecurity Article Breakdowns
+### Cybersecurity News Article Breakdowns
 
 I have a growing interest in malware, specifically how it is built, deployed, and the real-world damage it causes. This section is where I break down news articles and threat reports
 to sharpen my ability to read and analyse cybersecurity incidents critically.
