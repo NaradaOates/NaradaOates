@@ -14,7 +14,7 @@ My background is in accounting and finance, and since graduating I've worked as 
 
 | Certification | Provider | Status |
 |---|---|---|
-| Tech+ | CompTIA | Completed (July 2025) |
+| Tech+ | CompTIA | Passed (July 2025) |
 | A+ | CompTIA | In Progress |
 | Network+ | CompTIA | Coming soon |
 | Security | CompTIA | Coming soon |
