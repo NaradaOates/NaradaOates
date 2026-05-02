@@ -45,7 +45,7 @@ to sharpen my ability to read and analyse cybersecurity incidents critically.
 
 | Breakdown | Description | Tags |
 |---|---|---|
-|[CPUID Supply Chain Attack](./incidents/cpuid-stx-rat-2026/breakdown.md)| | `Malware` `RAT` `Threat Analysis` |
+|[CPUID Supply Chain Attack](./incidents/cpuid-stx-rat-2026/breakdown.md)| STX RAT Incident Breakdown | `Malware` `RAT` `Threat Analysis` |
 
 ---
 
