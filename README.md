@@ -43,7 +43,7 @@ My background is in accounting and finance, and since graduating I've worked as 
 I have a growing interest in malware, specifically how it is built, deployed, and the real-world damage it causes. This section is where I break down news articles and threat reports
 to sharpen my ability to read and analyse cybersecurity incidents critically.
 
-| Breakdown | Description | Tags |
+| Incident | Description | Tags |
 |---|---|---|
 |[CPUID Supply Chain Attack](./incidents/cpuid-stx-rat-2026/breakdown.md)| STX RAT Incident Breakdown | `Malware` `RAT` `Threat Analysis` |
 
