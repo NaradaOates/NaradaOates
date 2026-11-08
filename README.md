@@ -24,7 +24,7 @@ My background is in accounting and finance, and since graduating I've worked as 
 ### Currently Learning
 
 - **Linux (Ubuntu)** - navigating the terminal, file systems, and core commands
--  **CompTIA A+ Core 1** - hardware, networking fundamentals, mobile devices, virtualisation, and troubleshooting
+-  **CompTIA A+ Core 2** - operating systems, security, operational procedures, , and software troubleshooting
 - **Malware analysis** - lab setup (VMs and safe environments)
 
 ---
