@@ -51,7 +51,7 @@ to sharpen my ability to read and analyse cybersecurity incidents critically.
 
 > This profile is a work in progress and updated as I learn. 
 
-> Last updated: May 2026
+> Last updated: November 2026
 
 <!-- Is this how you comment
 --> 
